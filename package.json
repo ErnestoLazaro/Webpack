@@ -1,0 +1,26 @@
+{
+  "name": "webpackcourse",
+  "version": "1.0.0",
+  "description": "Ejercicios y prácticas del curso de Webpack",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErnestoLazaro/WebpackCourse.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "ErnestoLazaro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ErnestoLazaro/Webpack/issues"
+  },
+  "homepage": "https://github.com/ErnestoLazaro/Webpack#readme",
+  "devDependencies": {
+    "webpack": "4.43.0",
+    "webpack-cli": "3.3.11"
+  }
+}
